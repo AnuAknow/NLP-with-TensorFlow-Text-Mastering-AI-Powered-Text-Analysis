@@ -1,0 +1,9 @@
+__pycache__
+.pytest_cache
+logs/
+wandb/
+nlp-tensorflow/
+data/
+1.26.0
+.venv
+NLP-with-TensorFlow-Text Mastering-AI-Powered-Text-Analysis.code-workspace
